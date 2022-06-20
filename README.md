@@ -1,3 +1,5 @@
 # NLW-06---Origin
 
-Exercício de HTML + CSS
+HTML + CSS exercise
+
+https://andreviapiana.github.io/beautysalon/

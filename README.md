@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><a href="https://andreviapiana.github.io/beautysalon/">BeautySalon - Rocketseat NLW06 - Origin :rocket: </a></h1>
+  <h1 align="center"><a href="https://andreviapiana.github.io/BeautySalon---NLW06-Origin/">BeautySalon - Rocketseat NLW06 - Origin :rocket: </a></h1>
 </p>
 
 Este é o resultado obtido no NLW06 - Origin, evento da Rocketseat.

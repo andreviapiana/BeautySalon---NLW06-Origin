@@ -46,5 +46,5 @@ ___
 Basta acessar diretamente o link a seguir para visualizar o site:
 
 ```bash
-https://andreviapiana.github.io/beautysalon/
+https://andreviapiana.github.io/BeautySalon---NLW06-Origin/
 ```
